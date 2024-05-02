@@ -1,0 +1,4 @@
+Search for the Software in repository
+  apt search nodejs
+check the details of a package in Ubuntu
+  apt-cache show nodejs
