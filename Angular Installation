@@ -1,0 +1,11 @@
+sudo apt update
+sudo apt install -y curl
+curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -
+sudo apt install -y nodejs
+
+
+npm uninstall -g @angular/cli 
+npm install -g @angular/cli
+
+ng version | ng v 
+which ng
