@@ -1,0 +1,10 @@
+
+The simplest way to install dbeaver in Ubuntu:
+
+sudo add-apt-repository ppa:serge-rider/dbeaver-ce
+sudo apt-get update
+sudo apt-get install dbeaver-ce
+
+Run the dbeaver:
+
+dbeaver-ce
